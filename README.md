@@ -46,10 +46,6 @@ As seguintes bibliotecas são necessárias para a execução deste projeto:
 <li>Notificações para lembrar de tomar medicamentos
 <li>Banco de dados de fármacos
 <li>ícone dos fármacos
-<h3>Gerenciamento de Projeto</h3>
-O projeto está sendo gerenciado utilizando o Trello. O link está abaixo:
-
-Acesse o link https://trello.com/b/alarme-de-medicamentos para visualizar o quadro do projeto.!
   
   <h3>Telas</h3>
   
@@ -69,4 +65,9 @@ Acesse o link https://trello.com/b/alarme-de-medicamentos para visualizar o quad
     </td>
   </tr>
 </table>
+  
+  <h3>Gerenciamento de Projeto</h3>
+O projeto está sendo gerenciado utilizando o Trello. O link está abaixo:
+
+Acesse o link https://trello.com/b/alarme-de-medicamentos para visualizar o quadro do projeto.!
      
