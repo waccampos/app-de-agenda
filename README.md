@@ -54,18 +54,11 @@ Acesse o link https://trello.com/b/alarme-de-medicamentos para visualizar o quad
   <h3>Telas</h3>
   
  <table>
-   <tr>
-     <td>
-   <img src="![54cb25bd-64a3-4259-bf8f-8ca3a684ab2c](https://user-images.githubusercontent.com/114779612/232148153-f3375c8f-29e1-4434-bca3-cd9417e0233c.jpg)" widht:200 margin: 10/>
-    </td>
-  <td>
-  <img src="![647c8756-c83b-441a-ac8c-71e81cbe133e](https://user-images.githubusercontent.com/114779612/232148171-a4e84e85-da28-44ce-ae31-fc4a12fd2aeb.jpg)" widht:200 margin: 10/>
- </td> 
-  <td>
-  <img src="![f677f1da-93e1-499e-80e6-dadf8ab5f9d1](https://user-images.githubusercontent.com/114779612/232148213-638ca1a2-e37e-4a3c-bb9e-53616477f9c6.jpg)" widht:200 margin: 10/>
-</td>
-  <td>
-  <img src="![06a74571-65d0-4545-996c-c6808197cbaf](https://user-images.githubusercontent.com/114779612/232148245-4c19a633-a5af-4021-bd71-f8442c6bf113.jpg)" widht:200 margin: 10/>
- </td>
-     </tr>
-  </table>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/128062524/232148850-df1b6d9e-d470-41c4-b305-3e4bf3703ceb.jpeg" width="200"/></td>
+    <td><img src="https://user-images.githubusercontent.com/128062524/232149172-1d25f393-f7de-4558-bde6-db6f6b9ba6f8.jpeg" width="200"/></td>
+    <td><img src="https://user-images.githubusercontent.com/128062524/232149224-3c0f7fd0-db60-4d9e-a93b-d821f40a2943.jpeg" width="200"/></td>
+    <td><img src="https://user-images.githubusercontent.com/128062524/232149267-d82cebbf-24a0-4989-bd44-d5b30efd0b44.jpeg" width="200"/></td>
+  </tr>
+</table>
+     
