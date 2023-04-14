@@ -54,16 +54,18 @@ Acesse o link https://trello.com/b/alarme-de-medicamentos para visualizar o quad
   <h3>Telas</h3>
   
  <table>
-   <tr>
+   <tr>]
+     <td>
    ![54cb25bd-64a3-4259-bf8f-8ca3a684ab2c](https://user-images.githubusercontent.com/114779612/232148153-f3375c8f-29e1-4434-bca3-cd9417e0233c.jpg)
-    </tr>
-  <tr>
+    </td>
+  <td>
   ![647c8756-c83b-441a-ac8c-71e81cbe133e](https://user-images.githubusercontent.com/114779612/232148171-a4e84e85-da28-44ce-ae31-fc4a12fd2aeb.jpg)
- </tr> 
-  <tr>
+ </td> 
+  <td>
   ![f677f1da-93e1-499e-80e6-dadf8ab5f9d1](https://user-images.githubusercontent.com/114779612/232148213-638ca1a2-e37e-4a3c-bb9e-53616477f9c6.jpg)
-</tr>
-  <tr>
+</td>
+  <td>
   ![06a74571-65d0-4545-996c-c6808197cbaf](https://user-images.githubusercontent.com/114779612/232148245-4c19a633-a5af-4021-bd71-f8442c6bf113.jpg)
- </tr>
+ </td>
+     </tr>
   </table>
