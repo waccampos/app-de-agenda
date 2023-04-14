@@ -1,10 +1,11 @@
-Alarme de Medicamentos
-Autores
+<h1>Alarme de Medicamentos</h1>
+<h3>Autores</h3>
+
 Gabriel Cavalcante de Oliveira Pereira (01561346)
 
 Willams Aldson dos Santos Campos (01538850)
 
-Descrição:
+<h3>Descrição:</h3>
 Este projeto visa desenvolver um aplicativo móvel que facilite o controle da medicação para pessoas que necessitam de tratamentos farmacológicos regulares e que apresentam dificuldades em seguir as prescrições médicas. A não adesão ao regime terapêutico pode acarretar graves prejuízos à saúde de indivíduos, sobretudo idosos, portadores de patologias crônicas ou submetidos a intervenções clínicas intensivas. Esses indivíduos requerem um monitoramento rigoroso de seus fármacos, o que pode ser bastante difícil.
 
 Para suprir essa demanda, propõe-se um aplicativo móvel que possibilite programar horários para ingerir remédios, com notificações para o usuário e registrar os nomes dos medicamentos de forma customizável.
@@ -13,15 +14,16 @@ O aplicativo será elaborado seguindo os princípios de design centrado no usuá
 
 Em síntese, o aplicativo móvel de programação de horário para ingerir remédios é uma solução para um problema recorrente e que afeta a qualidade de vida de muitas pessoas. O aplicativo proposto tem o potencial de contribuir para a melhoria da adesão ao tratamento farmacológico e para a promoção da saúde e bem-estar dos usuários.
 
-Ferramentas Utilizadas
+<h3>Ferramentas Utilizadas</h3>
 Trello (https://trello.com/)
 
-Dependências
+<h3>Dependências</h3>
 As seguintes bibliotecas são necessárias para a execução deste projeto:
 
 React Native: ^0.64.2
 Input Mask: ^0.9.0
-Requisitos
+
+<h3>Requisitos</h3>
 Yarn
 Node.js
 Expo CLI
