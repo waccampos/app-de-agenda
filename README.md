@@ -55,13 +55,13 @@ Acesse o link https://trello.com/b/alarme-de-medicamentos para visualizar o quad
   
  <table>
   <tr>
-    <td><img src="https://user-images.githubusercontent.com/114779612/232150919-529e660a-7ef3-407d-8995-1e98ee4a49cf.jpg
+    <td><img src="https://user-images.githubusercontent.com/114779612/232150919-529e660a-7ef3-407d-8995-1e98ee4a49cf.jpeg
 " width="200"/></td>
-    <td><img src="https://user-images.githubusercontent.com/114779612/232151064-586f0242-b228-4dac-8467-6e238b237423.jpg
+    <td><img src="https://user-images.githubusercontent.com/114779612/232151064-586f0242-b228-4dac-8467-6e238b237423.jpeg
 " width="200"/></td>
-    <td><img src="https://user-images.githubusercontent.com/114779612/232151086-4b33f6c8-9095-4c55-aedd-f7946eefa974.jpg
+    <td><img src="https://user-images.githubusercontent.com/114779612/232151086-4b33f6c8-9095-4c55-aedd-f7946eefa974.jpeg
 " width="200"/></td>
-    <td><img src="https://user-images.githubusercontent.com/114779612/232151111-5279be27-00b3-4574-a8e4-b2aa5e913e3a.jpg
+    <td><img src="https://user-images.githubusercontent.com/114779612/232151111-5279be27-00b3-4574-a8e4-b2aa5e913e3a.jpeg
 " width="200"/></td>
   </tr>
 </table>
