@@ -19,25 +19,34 @@ Trello (https://trello.com/)
 
 <h3>Dependências</h3>
 As seguintes bibliotecas são necessárias para a execução deste projeto:
-
-React Native: ^0.64.2
-Input Mask: ^0.9.0
+<ul>
+<li>React Native: ^0.64.2
+<li>Input Mask: ^0.9.0
+</ul>
 
 <h3>Requisitos</h3>
-Yarn
-Node.js
-Expo CLI
-Funcionalidades
-Adicionar medicamentos
-Remover medicamentos
-Adicionar dos medicamentos
-Marcar medicamentos como tomados/não tomados
-Funcionalidades em desenvolvimento
-Editar medicamentos
-Notificações para lembrar de tomar medicamentos
-Banco de dados de fármacos
-ícone dos fármacos
-Gerenciamento de Projeto
+
+<ul>
+<li>Yarn
+<li>Node.js
+<li>Expo CLI
+</ul>
+<h3>Funcionalidades</h3>
+
+<ul>
+<li>Adicionar medicamentos
+<li>Remover medicamentos
+<li>Adicionar dos medicamentos
+<li>Marcar medicamentos como tomados/não tomados
+</ul>
+<h3>Funcionalidades em desenvolvimento</h3>
+
+<ul>
+<li>Editar medicamentos
+<li>Notificações para lembrar de tomar medicamentos
+<li>Banco de dados de fármacos
+<li>ícone dos fármacos
+<h3>Gerenciamento de Projeto</h3>
 O projeto está sendo gerenciado utilizando o Trello. O link está abaixo:
 
 Acesse o link https://trello.com/b/alarme-de-medicamentos para visualizar o quadro do projeto.
