@@ -54,7 +54,7 @@ Acesse o link https://trello.com/b/alarme-de-medicamentos para visualizar o quad
   <h3>Telas</h3>
   
  <table>
-   <tr>]
+   <tr>
      <td>
    <img src="![54cb25bd-64a3-4259-bf8f-8ca3a684ab2c](https://user-images.githubusercontent.com/114779612/232148153-f3375c8f-29e1-4434-bca3-cd9417e0233c.jpg)" widht:200 margin: 10>
     </td>
