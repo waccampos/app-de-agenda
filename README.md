@@ -62,7 +62,5 @@ As seguintes bibliotecas são necessárias para a execução deste projeto:
 </table>
   
   <h3>Gerenciamento de Projeto</h3>
-O projeto está sendo gerenciado utilizando o Trello. O link está abaixo:
-
-Acesse o link https://trello.com/b/alarme-de-medicamentos para visualizar o quadro do projeto.!
+O projeto foi gerenciado utilizando o Trello. 
      
