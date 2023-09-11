@@ -1,7 +1,4 @@
 <h1>Alarme de Medicamentos</h1>
-<h3>Autores</h3>
-
-Willams Aldson dos Santos Campos (01538850)
 
 <h3>Descrição:</h3>
 Este projeto visa desenvolver um aplicativo móvel que facilite o controle da medicação para pessoas que necessitam de tratamentos farmacológicos regulares e que apresentam dificuldades em seguir as prescrições médicas. A não adesão ao regime terapêutico pode acarretar graves prejuízos à saúde de indivíduos, sobretudo idosos, portadores de patologias crônicas ou submetidos a intervenções clínicas intensivas. Esses indivíduos requerem um monitoramento rigoroso de seus fármacos, o que pode ser bastante difícil.
