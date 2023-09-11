@@ -1,8 +1,6 @@
 <h1>Alarme de Medicamentos</h1>
 <h3>Autores</h3>
 
-Gabriel Cavalcante de Oliveira Pereira (01561346)
-
 Willams Aldson dos Santos Campos (01538850)
 
 <h3>Descrição:</h3>
